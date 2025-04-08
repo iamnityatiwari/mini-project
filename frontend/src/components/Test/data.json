@@ -1,0 +1,106 @@
+[
+  {
+    "ProfileUrl": "",
+    "name": "John Doe",
+    "bio": "Software Engineer",
+    "skill": "JavaScript, React, Node.js",
+    "desc": "Experienced software engineer with a passion for developing scalable web applications.",
+    "coverUrl": "../../assets/cover1.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Jane Smith",
+    "bio": "Data Scientist",
+    "skill": "Python, Machine Learning, Data Analysis",
+    "desc": "Data scientist specializing in machine learning and data analytics.",
+    "coverUrl": "../../assets/cover2.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Alice Johnson",
+    "bio": "Product Manager",
+    "skill": "Agile, Project Management, UX Design",
+    "desc": "Product manager with a knack for leading cross-functional teams.",
+    "coverUrl": "../../assets/cover3.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Bob Lee",
+    "bio": "Backend Developer",
+    "skill": "Java, Spring, MySQL",
+    "desc": "Backend developer with expertise in Java and relational databases.",
+    "coverUrl": "../../assets/cover4.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Cathy Brown",
+    "bio": "Frontend Developer",
+    "skill": "HTML, CSS, JavaScript, Vue.js",
+    "desc": "Frontend developer focused on creating responsive and dynamic web interfaces.",
+    "coverUrl": "../../assets/cover5.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "David Wilson",
+    "bio": "Cybersecurity Analyst",
+    "skill": "Network Security, Penetration Testing, Forensics",
+    "desc": "Cybersecurity expert with a deep knowledge of network security and forensics.",
+    "coverUrl": "../../assets/cover6.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Ella Martinez",
+    "bio": "Digital Marketer",
+    "skill": "SEO, Content Marketing, PPC",
+    "desc": "Digital marketing specialist with a focus on SEO and content strategy.",
+    "coverUrl": "../../assets/cover7.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Frank Thomas",
+    "bio": "DevOps Engineer",
+    "skill": "AWS, Docker, Kubernetes",
+    "desc": "DevOps engineer with a solid background in cloud infrastructure and automation.",
+    "coverUrl": "../../assets/cover8.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Grace Liu",
+    "bio": "UI/UX Designer",
+    "skill": "Figma, Sketch, Adobe XD",
+    "desc": "UI/UX designer with a creative approach to user-centric design.",
+    "coverUrl": "../../assets/cover9.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Henry Moore",
+    "bio": "Blockchain Developer",
+    "skill": "Solidity, Ethereum, Smart Contracts",
+    "desc": "Blockchain developer passionate about building decentralized applications.",
+    "coverUrl": "../../assets/cover10.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Hemanta Sahoo",
+    "bio": "Electrician",
+    "skill": "+3,+2,ITI",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum possimus molestiae voluptatem, aut ea numquam nulla obcaecati est sequi ipsum. Temporibus atque quidem veritatis sed dignissimos culpa dicta ipsum molestias! Lorem ipsum dolor sit amet.",
+    "coverUrl": "../../assets/avengers1.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Sumanta Sahoo",
+    "bio": "Mern stack developer",
+    "skill": "React,Node.js",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum possimus molestiae voluptatem, aut ea numquam nulla obcaecati est sequi ipsum. Temporibus atque quidem veritatis sed dignissimos culpa dicta ipsum molestias! Lorem ipsum dolor sit amet.",
+    "coverUrl": "../../assets/avengers3.jpg"
+  },
+  {
+    "ProfileUrl": "",
+    "name": "Shamik Mandal",
+    "bio": "Spring boot developer",
+    "skill": "Java, Spring, swing",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum possimus molestiae voluptatem, aut ea numquam nulla obcaecati est sequi ipsum. Temporibus atque quidem veritatis sed dignissimos culpa dicta ipsum molestias! Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum voluptatum, amet rem maiores vitae nesciunt error minima aliquam, omnis excepturi ab corrupti praesentium ducimus tempora neque. Quidem voluptas commodi recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo dolorem earum sed officia? Doloremque provident dolorum quas hic quam voluptatum id, dolore repellat reiciendis! Eius quis suscipit animi quibusdam ipsam.",
+    "coverUrl": "C:/Users/suman/OneDrive/Desktop/folder/frontend/src/assets/avengers2.jpg"
+  }
+]
